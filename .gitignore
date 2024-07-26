@@ -1,0 +1,15 @@
+#exclude the virtual env and generated files
+.vscode
+venv
+__pycache__
+.env
+
+
+#Ignore all the excelfiles
+res/*
+res/data_specs_files
+res/data_windchill
+cache
+
+#Ignore the deprecated files
+deprecated
